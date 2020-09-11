@@ -34,4 +34,4 @@ Neste projeto foram utilizadas as seguintes tecnologias:
 
 # Licença
 
-Esse projeto esta sobre [MIT license](./LICENSE).
+[MIT license](./LICENSE).
