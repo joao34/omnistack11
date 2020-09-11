@@ -1,12 +1,12 @@
 # Be the Hero
 
 <p  align="center">
-    <img  src="./.github/logo.png"  alt="Be the hero"  width="280"/>
+    <img  src="./frontend/src/assets/logo.svg"  alt="Be the hero"  width="280"/>
 </p>
 
 <p  align="center">
     <a  href="https://www.linkedin.com/in/jo%C3%A3o-mota-a16297145//">
-        <img  alt="João Manuel Mota" https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Mota-red />
+        <img  alt="João Manuel Mota" src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Mota-red"/>
     </a>    
     <img  alt="License"  src="https://img.shields.io/badge/license-MIT-e02041">
 </p>
