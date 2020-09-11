@@ -14,7 +14,7 @@
 Projeto criado durante a Semana Omnistack 11 [@Rocketseat](https://github.com/Rocketseat), com o intuito de adquirir mais conhecimentos sobre as tecnologias React, React Native e NodeJS.
 
 
-# :star: Sumário
+# :star: Indice
 
 * [Descrição](#descrição)
 * [Tecnologias](#tecnologias)
